@@ -1,1 +1,9 @@
-config.json
+{
+    "creator": "https://wa.me/6283843253488",
+    "access": [
+      "6283862183773"
+    ],
+    "access_bot": [
+      "6283862183773"
+    ]
+}
